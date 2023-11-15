@@ -7,7 +7,7 @@
 In this update we focused on various bug fixes, improving the systems invovled in unlocking items as well as making it more obvious that things were unlocked for the player.
 
 ________
-Curious about what else we're working on or future plans? Check out our Trello Board: https://trello.com/b/blG5fvE6/project-wwii
+:question: Curious about what else we're working on or future plans? Check out our Trello Board: https://trello.com/b/blG5fvE6/project-wwii
 ________
 
 ## :loudspeaker: Features and Improvements

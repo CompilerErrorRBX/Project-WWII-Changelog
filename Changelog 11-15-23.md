@@ -16,6 +16,7 @@ ________
 > We felt that when users unlocked weapons, perks, etc that it felt a bit obscure.
 > Now when the player joins the game lobby, or after a round ends, a screen is shown with all items unlocked during a round.
 
+### :arrow_up_small: `Improvement` Made look of in-game class selection more consistent with armory.
 ________
 
 ## :balance_scale: Changes

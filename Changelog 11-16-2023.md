@@ -10,20 +10,22 @@ ________
 :question: Curious about what else we're working on or future plans? Check out our Trello Board: https://trello.com/b/blG5fvE6/project-wwii
 ________
 
+## :world_map: New Map: Fourcès
+
 ## :fire: New Items
 - Added `Sniper ACOG`
   > Unlockable only with gems
 - Added `Gewehr 43/M1 Garand 8x Scope`
 
+## :running_man: New Perks
+- Added `One Man Army`
+  > Allows players to swap classes at any time.
+- Added `Cold Blooded`
+  > Makes players invisible on aerial reconnaissance scorestreaks
+
 ________
 
 ## :loudspeaker: Features and Improvements
-
-### :white_check_mark: `Feature` One Man Army Perk
-> Allows players to swap classes at any time.
-
-### :white_check_mark: `Feature` Cold Blooded Perk
-> Makes players invisible on aerial reconnaissance scorestreaks
 
 ### :white_check_mark: `Feature` Weapon Levels
 > Weapon levels unlock weapon attachments (and other things later.)
@@ -36,6 +38,7 @@ ________
 > Attachments are now automatically unlocked when a player reaches the necessary weapon level for it
 > The weapon level necessary is shown on the attachment
 
+### :exclamation: `Change` Grenades throw a bit further
 ________
 
 ## :bug: Bugfixes

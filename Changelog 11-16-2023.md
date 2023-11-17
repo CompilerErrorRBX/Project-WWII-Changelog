@@ -1,35 +1,43 @@
-# :bookmark_tabs:  Changelog 11/16/2023 - xx/xx/xxxx
+# :bookmark_tabs:  Changelog 11/16/2023 - 11/17/2023
 
-## :red_circle: Status `Unreleased`
-<!-- ## :green_circle: Status `Released` -->
+<!-- ## :red_circle: Status `Unreleased` -->
+## :green_circle: Status `Released`
 
 ## :speech_balloon: Patch Notes
-Patch Notes
+Focused on adding more of our planned features to the game and fixing known issues. Additionally we added content and cleaned up old features that didn't feel quite right.
 
 ________
 :question: Curious about what else we're working on or future plans? Check out our Trello Board: https://trello.com/b/blG5fvE6/project-wwii
 ________
 
 ## :fire: New Items
-- Added `ITEM NAME HERE`.
+- Added `Sniper ACOG`
+  > Unlockable only with gems
+- Added `Gewehr 43/M1 Garand 8x Scope`
 
 ________
 
 ## :loudspeaker: Features and Improvements
 
-### :white_check_mark: `Feature` NEW FEATURE
-> Feature details
+### :white_check_mark: `Feature` One Man Army Perk
+> Allows players to swap classes at any time.
 
-### :arrow_up_small: `Improvement` Added Weapon and Perk unlock level text to UI
-> Previously, users were not properly notified of the rank necessary to unlock a perk or weapon.
+### :white_check_mark: `Feature` Cold Blooded Perk
+> Makes players invisible on aerial reconnaissance scorestreaks
+
+### :white_check_mark: `Feature` Weapon Levels
+> Weapon levels unlock weapon attachments (and other things later.)
 
 ________
 
 ## :balance_scale: Changes
 
-### :exclamation: `Change` CHANGE
+### :exclamation: `Change` Attachment unlocks and price changes
+> Attachments are now automatically unlocked when a player reaches the necessary weapon level for it
+> The weapon level necessary is shown on the attachment
 
 ________
 
 ## :bug: Bugfixes
-- Bug that was fixed
+- Fixed a bug which made the gun pull out animation play twice after cancelling grenade throw
+- Fixed a bug where the client and server had a discrepency about unlocked weapons, perks, and attachments for players that already had high levels in weapons.
